@@ -49,7 +49,8 @@ All non-API methods and attributes are private
 Following API methods accept different arguments
 ================================================
 
-#. :meth:`dnf.Base.add_remote_rpms`
+#. Python API changes
+==================
 #. :meth:`dnf.Base.group_install`
 #. :meth:`dnf.cli.Command.configure`
 #. :meth:`dnf.cli.Command.run`
